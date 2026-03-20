@@ -1,0 +1,19 @@
+{
+	"required": true,
+	"package": "net.cozystudios.tokimisruinedmod.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"NoteBlockMixin",
+		"CreeperEntityMixin",
+		"MobEntityAccessor",
+		"MobEntityInitializeMixin",
+		"PigEntityMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"client": [
+		"client.PlayerEntityRendererMixin",
+		"client.PigEntityRendererMixin"
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"description": {
+		"translate": "enchantment.tokimis_ruined_mod.sharted"
+	},
+	"exclusive_set": [],
+	"max_cost": {
+		"base": 45,
+		"per_level_above_first": 15
+	},
+	"max_level": 3,
+	"min_cost": {
+		"base": 25,
+		"per_level_above_first": 10
+	},
+	"slots": [
+		"mainhand"
+	],
+	"supported_items": "#tokimis_ruined_mod:enchantable/sharted",
+	"anvil_cost": 4,
+	"weight": 2,
+	"effects": {}
+}

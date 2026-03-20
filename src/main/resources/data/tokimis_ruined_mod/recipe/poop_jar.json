@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:glass_bottle"
+		},
+		{
+			"item": "tokimis_ruined_mod:poop"
+		}
+	],
+	"result": {
+		"id": "tokimis_ruined_mod:poop_jar",
+		"count": 1
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"lit=false": {
+			"model": "tokimis_ruined_mod:block/poop_block"
+		},
+		"lit=true": {
+			"model": "tokimis_ruined_mod:block/poop_block"
+		}
+	}
+}

@@ -1,0 +1,74 @@
+{
+	"fart": {
+		"sounds": [
+			"tokimis_ruined_mod:fart"
+		],
+		"subtitle": "subtitles.tokimis_ruined_mod.fart"
+	},
+	"footstep": {
+		"sounds": [
+			"tokimis_ruined_mod:footstep"
+		],
+		"subtitle": "subtitles.tokimis_ruined_mod.footstep"
+	},
+	"subscribe_1": {
+		"sounds": [
+			"tokimis_ruined_mod:subscribe/subscribe_1"
+		],
+		"subtitle": "subtitles.tokimis_ruined_mod.subscribe"
+	},
+	"subscribe_2": {
+		"sounds": [
+			"tokimis_ruined_mod:subscribe/subscribe_2"
+		],
+		"subtitle": "subtitles.tokimis_ruined_mod.subscribe"
+	},
+	"subscribe_3": {
+		"sounds": [
+			"tokimis_ruined_mod:subscribe/subscribe_3"
+		],
+		"subtitle": "subtitles.tokimis_ruined_mod.subscribe"
+	},
+	"subscribe_4": {
+		"sounds": [
+			"tokimis_ruined_mod:subscribe/subscribe_4"
+		],
+		"subtitle": "subtitles.tokimis_ruined_mod.subscribe"
+	},
+	"subscribe_5": {
+		"sounds": [
+			"tokimis_ruined_mod:subscribe/subscribe_5"
+		],
+		"subtitle": "subtitles.tokimis_ruined_mod.subscribe"
+	},
+	"subscribe_6": {
+		"sounds": [
+			{
+				"name": "tokimis_ruined_mod:subscribe/subscribe_6",
+				"volume": 4.0
+			}
+		],
+		"subtitle": "subtitles.tokimis_ruined_mod.subscribe"
+	},
+	"subscribe_7": {
+		"sounds": [
+			"tokimis_ruined_mod:subscribe/subscribe_7"
+		],
+		"subtitle": "subtitles.tokimis_ruined_mod.subscribe"
+	},
+	"mushling_hurt": {
+		"sounds": [
+			"tokimis_ruined_mod:hurt_1",
+			"tokimis_ruined_mod:hurt_2",
+			"tokimis_ruined_mod:hurt_3",
+			"tokimis_ruined_mod:hurt_4"
+		],
+		"subtitle": "subtitles.tokimis_ruined_mod.mushling_hurt"
+	},
+	"mushling_death": {
+		"sounds": [
+			"tokimis_ruined_mod:death"
+		],
+		"subtitle": "subtitles.tokimis_ruined_mod.mushling_death"
+	}
+}

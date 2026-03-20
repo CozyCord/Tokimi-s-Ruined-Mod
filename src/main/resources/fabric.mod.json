@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "tokimis_ruined_mod",
+	"version": "${version}",
+	"name": "Tokimi's Ruined Mod",
+	"description": "Tokimi's Ruined Mod for Fabric 1.21.1",
+	"authors": [
+		"Tokimi",
+		"CozyStudios"
+	],
+	"contact": {
+		"homepage": "https://discord.gg/cozycord",
+		"sources": "https://github.com/CozyCord/TokimisRuinedMod"
+	},
+	"license": "ARR",
+	"icon": "assets/tokimis_ruined_mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.cozystudios.tokimisruinedmod.TokimisRuinedMod"
+		],
+		"client": [
+			"net.cozystudios.tokimisruinedmod.TokimisRuinedModClient"
+		],
+		"modmenu": [
+			"net.cozystudios.tokimisruinedmod.config.ModMenuIntegration"
+		]
+	},
+	"mixins": [
+		"tokimis_ruined_mod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

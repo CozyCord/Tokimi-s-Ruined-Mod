@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:smoking",
+	"ingredient": {
+		"item": "tokimis_ruined_mod:raw_skin"
+	},
+	"result": {
+		"id": "tokimis_ruined_mod:cooked_skin"
+	},
+	"experience": 0.15,
+	"cookingtime": 100
+}

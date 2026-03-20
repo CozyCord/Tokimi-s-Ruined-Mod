@@ -1,0 +1,19 @@
+{
+	"variants": {
+		"facing=north": {
+			"model": "tokimis_ruined_mod:block/foot_block"
+		},
+		"facing=south": {
+			"model": "tokimis_ruined_mod:block/foot_block",
+			"y": 180
+		},
+		"facing=east": {
+			"model": "tokimis_ruined_mod:block/foot_block",
+			"y": 90
+		},
+		"facing=west": {
+			"model": "tokimis_ruined_mod:block/foot_block",
+			"y": 270
+		}
+	}
+}
